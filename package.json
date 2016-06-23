@@ -9,6 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "browserify": "^9.0.3",
+    "firebase": "^3.0.5",
     "gulp": "^3.8.11",
     "gulp-concat": "^2.5.2",
     "gulp-react": "^3.0.1",
@@ -19,6 +20,7 @@
     "node-notifier": "^4.2.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
+    "reactfire": "^1.0.0",
     "reactify": "^1.1.0",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^2.4.0"
